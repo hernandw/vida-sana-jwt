@@ -17,6 +17,6 @@ const getData = async () => {
   return res.rows;
 };
 
-getData()
+/* getData() */
 
 module.exports = pool;
